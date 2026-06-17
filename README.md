@@ -73,4 +73,16 @@ LDMs adapt to user intent through several conditioning mechanisms that guide the
 | Advancement | Description | Year | Paper Link | Details |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Latent Causal Diffusion Models (LacaDM)](docs/lacadm.md)** | Advanced frameworks that integrate structural causal models to allow for precise causal interventions. | 2025 | [Zhang et al.](https://arxiv.org/abs/2512.19516) | [View Doc](docs/lacadm.md) |
-| **[Fast Decoders (e.g., PiD)](docs/pid.md)** | New paradigms replacing traditional VAE decoders with conditional pixel-space diffusion modules (Pixel Diffusion Decoder). | 2026 | [NVIDIA (PiD)](https://arxiv.org/abs/2605.23902) | [View Doc](docs/pid.md) |
+| **[Fast Decoders (e.g., PiD)](docs/pid.md)** | New paradigms replacing traditional autoencoder decoders with conditional pixel-space diffusion modules (Pixel Diffusion Decoder). | 2026 | [NVIDIA (PiD)](https://arxiv.org/abs/2605.23902) | [View Doc](docs/pid.md) |
+
+## 📈 Star History
+<div align="center">
+   <a href="https://www.star-history.com/#ishandutta2007/Awesome-Latent-Diffusion-Models&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Latent-Diffusion-Models&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Latent-Diffusion-Models&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Latent-Diffusion-Models&type=Date" />
+    </picture>
+   </a>
+</div>
+
