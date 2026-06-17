@@ -1,13 +1,43 @@
-# Awesome-Latent-Diffusion-Models
-## Latent Diffusion Models (LDMs): Types & Examples
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Latent Diffusion Models Banner" width="800" />
+  
+  <p align="center">
+    <a href="https://github.com/ishandutta2007/Awesome-Latent-Diffusion-Models/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Latent-Diffusion-Models?style=for-the-badge&color=yellow" alt="stars" /></a>
+    <a href="https://github.com/ishandutta2007/Awesome-Latent-Diffusion-Models/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Latent-Diffusion-Models?style=for-the-badge&color=blue" alt="forks" /></a>
+    <a href="https://github.com/ishandutta2007/Awesome-Latent-Diffusion-Models/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Latent-Diffusion-Models?style=for-the-badge&color=red" alt="issues" /></a>
+    <a href="https://github.com/ishandutta2007/Awesome-Latent-Diffusion-Models/pulls"><img src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-Latent-Diffusion-Models?style=for-the-badge&color=green" alt="pull requests" /></a>
+    <a href="https://github.com/ishandutta2007/Awesome-Latent-Diffusion-Models/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Latent-Diffusion-Models?style=for-the-badge" alt="license" /></a>
+    <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge" /></a>
+  </p>
 
-**Latent Diffusion Models (LDMs)** are generative AI frameworks that perform the computationally heavy diffusion process inside a compressed "latent space" rather than raw pixel space. This vastly reduces computation requirements while maintaining high-fidelity generation.
+  <h3>🌟 A Curated List of Latent Diffusion Model (LDM) Architectures, Techniques, and Applications</h3>
+</div>
+
+<!-- SEO Tags -->
+<!-- Keywords: Latent Diffusion Models, Stable Diffusion, LDM, Generative AI, Text-to-Image, AI Research, Computer Vision, Diffusion Models, LacaDM, PiD -->
+
+---
+
+## 📖 Introduction
+
+**Latent Diffusion Models (LDMs)** are generative AI frameworks that perform the computationally heavy diffusion process inside a compressed "latent space" rather than raw pixel space. This vastly reduces computation requirements while maintaining high-fidelity generation. 🚀
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZnc4Y2R3N3N4OHB0ZTV4Z2x4Z2x4Z2x4Z2x4Z2x4Z2x4Z2x4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" alt="AI Diffusion Animation" width="400" />
+</p>
+
+## ✨ Key Features
+
+- 🎨 **Multi-Modal Conditioning:** Text, Image, Layout, and Depth.
+- ⚡ **Efficiency:** Low VRAM requirements via latent space processing.
+- 🛠️ **Extensibility:** Compatible with ControlNet, LoRA, and IP-Adapter.
+- 🧪 **Research Ready:** Includes foundational papers and recent breakthroughs.
 
 ---
 
 ## 🛠️ Categorized by Conditioning (Input Types)
 
-LDMs adapt to user intent through several conditioning mechanisms that guide the generation process:
+LDMs adapt to user intent through several conditioning mechanisms that guide the generation process: 🧩
 
 | Type | Description | Year | Paper Link | Details |
 | :--- | :--- | :--- | :--- | :--- |
